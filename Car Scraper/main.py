@@ -18,7 +18,7 @@ import threading
 
 background_color = '#424242'
 PATH = "chromedriver.exe"
-MIN_PRICE = 1500
+MIN_PRICE = 1500    # here you can set the min price
 
 class Frames:
     def __init__(self, master, website_name, mydb, my_cursor):
