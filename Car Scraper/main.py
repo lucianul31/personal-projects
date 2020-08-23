@@ -377,10 +377,13 @@ class GUI:
         Thread3.start()
 
 if __name__ == '__main__':
+    # here you have to enter your mysql user and password
+    username = ''
+    passwd = ''
     mydb = mysql.connector.connect(
         host="localhost",
-        user="lucianul31",
-        password="2145sDff54r55rFF4erwq",
+        user=username,
+        password=passwd,
         database="car_list"
     )
     my_cursor = mydb.cursor()
