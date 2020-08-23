@@ -1,0 +1,2 @@
+I wanted to buy a new car and it's very difficult to just search every day for new ads and find the best deal, so I made a scraper using selenium, requests and bs4 with a GUI to make my life easier.
+This program is only for mobile.de and for a website from my contry (olx.ro). You can export all the cars from a MySql Database to an excel.
