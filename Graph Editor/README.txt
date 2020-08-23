@@ -1,0 +1,2 @@
+I created this program to visualize better (un)directed graphs and export them as a image if I need to.
+Also this was my first GUI, so I wanted to better understand what object oriented programming means and learn about it.
