@@ -199,7 +199,7 @@ class Frames:
                                 p = p * 10 + int(c)
                         if p > MIN_PRICE:
                             self.List_in_DB(All_Cars, title, price, car_link, color, fuel_type, fab_year, mileage, p)
-                        print(p)
+                        # print(p)
                 page += 1
             print('done')
 
